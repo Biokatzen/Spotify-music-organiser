@@ -4,9 +4,9 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import time
 
-CLIENT_ID = "cab9f58ee47948c1a98ad0f17970b57b"
-CLIENT_SECRET = "31be9f6811a34c08a507b8a1373622d4"
-REDIRECT_URI = "http://127.0.0.1:8888/callback"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
+REDIRECT_URI = ""
 
 # Mapear subgéneros a categorías amplias
 GENRE_GROUPS = {
